@@ -6,7 +6,10 @@
 
 ---
 
+<p align="center">
 <h2 align="center">Skill's</h2>
+  <img src=./images/css-badge.svg/>
+</p>
 
 ![HTML5](./images/html-badge.svg)
 ![CSS3](./images/css-badge.svg)
