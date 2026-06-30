@@ -17,13 +17,6 @@
 
 ---
 
-<h2 align="center">Activity</h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TagRoot&theme=shadow-red&border_radius=15&short_numbers=true&date_format=%5BY.%5Dn.j&dates=D5D5D5&currStreakNum=D5D5D5&sideNums=D5D5D5&ring=FF0000&fire=DDEB00&border=EB0000&currStreakLabel=00EB2B&sideLabels=00EB2B&stroke=FF0000" alt="Daily Record" />
-</div>
-
----
-
 <h2 align="center">Contact</h2>
 <div align="center">
   <a href="https://t.me/tagroot" target="_blank">
