@@ -6,7 +6,8 @@
 
 ---
 
-#### Skill's
+<h2 align="center">Skill's</h2>
+
 ![HTML5](./images/html-badge.svg)
 ![CSS3](./images/css-badge.svg)
 ![JavaScript](./images/js-badge.svg)
