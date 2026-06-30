@@ -6,7 +6,7 @@
 
 ---
 
-<h align="center">Skill's</h>
+<h2 align="center">Skill's</h2>
 ![HTML5](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red)
 ![CSS3](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=red)
 ![JavaScript](https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript&logoColor=red)
