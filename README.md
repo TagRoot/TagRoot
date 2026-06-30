@@ -26,11 +26,9 @@
 
 <h2 align="center">Contact</h2>
 <div align="center">
- <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=red">
+  <img src="./images/telegram-badge.svg" alt="Telegram"><br/>
+  <img src="./images/instagram-badge.svg" alt="Instagram"><br/>
+  <img src="./images/gmail-badge.svg" alt="Gmail">
 </div>
-  
-[![Telegram]()](https://t.me/TagRoot)
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=red)](https://instagram.com/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:youremail@gmail.com)
 
 ---
