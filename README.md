@@ -7,26 +7,26 @@
 ---
 
 ## Skill's
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=red)
+![CSS3](https://img.shields.io/badge/CSS3--CSS3-black?style=for-the-badge&logo=css&logoColor=red)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=red)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=red)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red)
 
 ---
 
 ## Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TagRoot&show_icons=true&theme=radical" alt="آمار گیت‌هاب" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TagRoot&show_icons=true&theme=radical" alt="Status" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TagRoot&theme=radical" alt="رکورد روزانه" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TagRoot&theme=radical" alt="Daily Record" />
 </div>
 
 ---
 
 ## Contact
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TagRoot)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=red)](https://t.me/TagRoot)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=red)](https://instagram.com/yourusername)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:youremail@gmail.com)
 
 ---
