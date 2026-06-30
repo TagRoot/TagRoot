@@ -26,9 +26,17 @@
 
 <h2 align="center">Contact</h2>
 <div align="center">
-  <img src="./images/telegram-badge.svg" alt="Telegram"><br/>
-  <img src="./images/instagram-badge.svg" alt="Instagram"><br/>
+  <a href="https://t.me/tagroot" target="_blank">
+  <img src="./images/telegram-badge.svg" alt="Telegram">
+  </a>
+  <br/>
+  <a href="https://instagram.com/tagroot" target="_blank">
+  <img src="./images/instagram-badge.svg" alt="Instagram">
+  </a>
+  <br/>
+  <a href="tagroot@gmail.com" target="_blank">
   <img src="./images/gmail-badge.svg" alt="Gmail">
+  </a>
 </div>
 
 ---
