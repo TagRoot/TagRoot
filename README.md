@@ -8,10 +8,10 @@
 
 #### Skill's
 ![HTML5](./images/html-badge.svg)
-![CSS3](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=red)
-![JavaScript](https://img.shields.io/badge/JS-black?style=for-the-badge&logo=javascript&logoColor=red)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=red)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red)
+![CSS3](./images/css-badge.svg)
+![JavaScript](./images/js-badge.svg)
+![Python](./images/python-badge.svg)
+![Git](./images/git-badge.svg)
 
 ---
 
