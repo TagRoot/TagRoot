@@ -6,28 +6,30 @@
 
 ---
 
-<p align="center">
 <h2 align="center">Skill's</h2>
-  <img src=./images/css-badge.svg/>
-</p>
-
-![HTML5](./images/html-badge.svg)
-![CSS3](./images/css-badge.svg)
-![JavaScript](./images/js-badge.svg)
-![Python](./images/python-badge.svg)
-![Git](./images/git-badge.svg)
+<div align="center">
+  <img src="./images/python-badge.svg" alt="Python"><br/>
+  <img src="./images/html-badge.svg" alt="HTML"><br/>
+  <img src="./images/css-badge.svg" alt="CSS"><br/>
+  <img src="./images/js-badge.svg" alt="Javascript"><br/>
+  <img src="./images/git-badge.svg" alt="Git">
+</div>
 
 ---
 
-## Activity
+<h2 align="center">Activity</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=TagRoot&theme=shadow-red&border_radius=15&short_numbers=true&date_format=%5BY.%5Dn.j&dates=D5D5D5&currStreakNum=D5D5D5&sideNums=D5D5D5&ring=FF0000&fire=DDEB00&border=EB0000&currStreakLabel=00EB2B&sideLabels=00EB2B&stroke=FF0000" alt="Daily Record" />
 </div>
 
 ---
 
-## Contact
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=red)](https://t.me/TagRoot)
+<h2 align="center">Contact</h2>
+<div align="center">
+ <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=red">
+</div>
+  
+[![Telegram]()](https://t.me/TagRoot)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=red)](https://instagram.com/yourusername)
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:youremail@gmail.com)
 
